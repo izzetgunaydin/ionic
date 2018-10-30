@@ -1,0 +1,7 @@
+{
+  "name": "iondeneme",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
